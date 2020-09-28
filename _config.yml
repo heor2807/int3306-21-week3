@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: INT3306 homework week 3
-email: tuananh2106a2@gmail.com
+title: INT3306 21 week 3
+email: 18020582@vnu.edu.vn
 # description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
-baseurl: "/INT3306w3" # the subpath of your site, e.g. /blog
+baseurl: "/int3306-21-week3" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  zzNuAzz
+github_username:  heor2807
 
 # Build settings
 theme: minima
